@@ -1,5 +1,5 @@
 {
-  "name": "swooletw/laravel-swoole",
+  "name": "hocvt/laravel-swoole",
   "description": "High performance HTTP server based on Swoole. Speed up your Laravel and Lumen applications.",
   "keywords": [
     "swoole",
@@ -22,10 +22,10 @@
   ],
   "require": {
     "php": "^7.2",
-    "illuminate/console": "~5.4",
-    "illuminate/contracts": "~5.4",
-    "illuminate/http": "~5.4",
-    "illuminate/support": "~5.4",
+    "illuminate/console": "~6.0",
+    "illuminate/contracts": "~6.0",
+    "illuminate/http": "~6.0",
+    "illuminate/support": "~6.0",
     "predis/predis": "^1.1"
   },
   "require-dev": {
